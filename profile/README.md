@@ -2,8 +2,15 @@
 
 # 🎨 Selamat datang di ArtSubs!
 
-🙋‍♀️ **Perkenalan singkat**  
-**ArtSubs** adalah platform kolaboratif yang menghubungkan pembuat subtitle, penerjemah, dan pecinta media untuk menyulih dan menerjemahkan konten seni dan budaya dari seluruh dunia. Kami percaya bahwa seni dan cerita harus bisa diakses oleh semua orang—tanpa batasan bahasa. Dari film independen, video edukasi seni, hingga dokumenter global, kami pastikan pesannya tersampaikan dengan indah dan akurat.
+🙋‍♀️ **Our Tech Stack**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
 
 ---
 
