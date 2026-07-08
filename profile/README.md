@@ -44,7 +44,3 @@ Apa yang jadi bahan bakar tim artsubs?
 - 30% mi instan
 - 10% krisis eksistensial + inspirasi
 Tapi kalau lagi waras? Sarapannya roti bakar selai dan playlist film pendek eksperimental di YouTube
-
----
-
-Ingat, kamu bisa melakukan hal-hal luar biasa dengan kekuatan [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)!
