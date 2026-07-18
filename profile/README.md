@@ -14,30 +14,6 @@
 
 ---
 
-**Panduan kontribusi**  
-Ingin membantu menyebarkan seni ke lebih banyak orang? Kamu bisa terlibat dengan:
-- Menerjemahkan atau memeriksa subtitle ke dalam bahasa kamu.
-- Mengunggah file subtitle untuk konten seni berlisensi terbuka.
-- Meninjau atau menyinkronkan subtitle yang dikirimkan komunitas.
-- Mengusulkan proyek baru yang layak diakses secara multibahasa.
-
-Cukup *fork* repositori ini, lakukan perubahanmu, lalu ajukan *pull request*.  
-Kami terbuka untuk kontributor dari semua tingkat pengalaman!  
-Baca [CONTRIBUTING.md](CONTRIBUTING.md) untuk panduan lengkap.
-
----
-
-**Sumber daya yang berguna**  
-Berikut beberapa tautan penting:
-- [Dokumentasi & Panduan Alur Kerja](https://artsubs.co/docs)  
-- Bergabung di komunitas kami lewat [Discord](https://artsubs.co/discord)  
-- Coba alat bantu subtitle kami di [Toolbox](https://artsubs.co/toolbox)  
-
-Baru pertama kali berkontribusi?  
-Mulailah dari **Panduan Kontributor Pemula** di dokumentasi!
-
----
-
 **Fakta menarik**  
 Apa yang jadi bahan bakar tim artsubs?
 - 60% kopi
